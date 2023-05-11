@@ -1,4 +1,4 @@
-[MasterHead](https://www.fticonsulting.com/~/media/Images/shared-content/insights/fti-journal/2016/july/cyber-attack_930x470.gif?h=470&la=en&w=930&hash=8C86AFE8F67F4132A69613C8EE1DD9FF38E963BF)
+(https://www.fticonsulting.com/~/media/Images/shared-content/insights/fti-journal/2016/july/cyber-attack_930x470.gif?h=470&la=en&w=930&hash=8C86AFE8F67F4132A69613C8EE1DD9FF38E963BF)
 <h1 align="center">Hi 👋, I'm Prakhar Verma</h1>
 <h3 align="center">Cybersecurity Enthusiast</h3>
 <img align="right" alt="Cybersecurity" width="400" src="https://i.pinimg.com/originals/3c/6c/81/3c6c814a9d9453478630e2d82640b9a4.gif">
