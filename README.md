@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@prakhar12.rv](https://medium.com/@prakhar12.rv)
 
-- 💬 Ask me about **What are some of the common cyber threats that organizations face today? How do you approach vulnerability assessments and penetration testing to identify security weaknesses? Can you explain the concept of multi-factor authentication and its importance in securing digital accounts? What are some best practices for ensuring data privacy and protection in an increasingly interconnected world? How do you stay updated with the latest cybersecurity trends and emerging threats? Can you share a memorable incident where you successfully prevented or mitigated a cyber attack? What strategies do you employ to educate and raise awareness about cybersecurity among employees within an organization? How do you assess and manage risks associated with third-party vendors and their access to sensitive data? Can you explain the role of encryption in safeguarding data and communications? How do you approach incident response and recovery in the event of a cybersecurity breach?**
+- 💬 Ask me about **What are some of the common cyber threats that organizations face today? How do you approach vulnerability assessments and penetration testing to identify security weaknesses?**
 
 - 📫 How to reach me **prakhar12.rv@gmail.com**
 
