@@ -52,4 +52,3 @@ My journey in computer science has led to my interest in cybersecurity, and I am
 - Malware Analysis Lab
 - Offensive security tool - Phantom
 -  NetAnomalyML tool
--  
